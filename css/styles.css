@@ -164,129 +164,152 @@ font-size: 20px;
   }
 
 
-  .online_museum:hover .overlay-online  {
-    opacity: 1;
-    }
+.online_museum:hover .overlay-online  {
+  opacity: 1;
+   }
 
 
 
-    .gallery{
-      width: 80%;
-      margin: 0 auto;
-      position: relative;
-    }
+.gallery{
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  }
     
-    .image3{
-      display: block;
-      height: auto;
-    }
+.image3{
+  display: block;
+  height: auto;
+  }
     
-    .gallery-text{
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    color: black;
-    font-size: 20px;
-    }
+.gallery-text{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: black;
+  font-size: 20px;
+  }
     
-    .overlay-gallery {
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      height: 100%;
-      width: 100%;
-      opacity: 0;
-      transition: .5s ease;
-      background-color: #E3280B;
-      }
+.overlay-gallery {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #E3280B;
+  }
     
     
-      .gallery:hover .overlay-gallery  {
-        opacity: 1;
-        }
+.gallery:hover .overlay-gallery  {
+  opacity: 1;
+}
         
 
 
-        .creative{
-          width: 80%;
-          margin: 0 auto;
-          position: relative;
-        }
+.creative{
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  }
         
-        .image4{
-          display: block;
-          height: auto;
-        }
+.image4{
+  display: block;
+  height: auto;
+  }
         
-        .creative-text{
-        position: absolute;
-        top: 60%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        -ms-transform: translate(-50%, -50%);
-        color: black;
-        font-size: 20px;
-        }
+.creative-text{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: black;
+  font-size: 20px;
+  }
         
-        .overlay-creative {
-          position: absolute;
-          top: 0;
-          bottom: 0;
-          left: 0;
-          right: 0;
-          height: 100%;
-          width: 100%;
-          opacity: 0;
-          transition: .5s ease;
-          background-color: #165AD2;
-          }
+.overlay-creative {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #165AD2;
+  }
         
         
-          .creative:hover .overlay-creative  {
-            opacity: 1;
-            }
+.creative:hover .overlay-creative  {
+  opacity: 1;
+  }
 
 
 
-            .voter{
-              width: 80%;
-              margin: 0 auto;
-              position: relative;
-            }
+.voter{
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  }
             
-            .image5{
-              display: block;
-              height: auto;
-            }
+.image5{
+  display: block;
+  height: auto;
+  }
+          
+.voter-text{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: black;
+  font-size: 20px;
+  }
+          
+.overlay-voter {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #FA26AA;
+  }
             
-            .voter-text{
-            position: absolute;
-            top: 60%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            -ms-transform: translate(-50%, -50%);
-            color: black;
-            font-size: 20px;
-            }
             
-            .overlay-voter {
-              position: absolute;
-              top: 0;
-              bottom: 0;
-              left: 0;
-              right: 0;
-              height: 100%;
-              width: 100%;
-              opacity: 0;
-              transition: .5s ease;
-              background-color: #FA26AA;
-              }
-            
-            
-              .voter:hover .overlay-voter  {
-                opacity: 1;
-                }
+.voter:hover .overlay-voter  {
+  opacity: 1;
+  }
+
+.ico1{
+  padding-bottom: 15px;
+}
+
+footer{
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.chini{
+  background-color: #E5DBBC;
+}
+
+.sign{
+  background-color: #D7DBDD;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.rine{
+  border: 1px solid black;
+}
