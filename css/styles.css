@@ -128,3 +128,165 @@
 .work{
     padding: 20px;
 }
+
+.online_museum{
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.image2{
+  display: block;
+  height: auto;
+}
+
+.online-text{
+position: absolute;
+top: 60%;
+left: 50%;
+transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+color: black;
+font-size: 20px;
+}
+
+.overlay-online {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #15A206;
+  }
+
+
+  .online_museum:hover .overlay-online  {
+    opacity: 1;
+    }
+
+
+
+    .gallery{
+      width: 80%;
+      margin: 0 auto;
+      position: relative;
+    }
+    
+    .image3{
+      display: block;
+      height: auto;
+    }
+    
+    .gallery-text{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    color: black;
+    font-size: 20px;
+    }
+    
+    .overlay-gallery {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 100%;
+      width: 100%;
+      opacity: 0;
+      transition: .5s ease;
+      background-color: #E3280B;
+      }
+    
+    
+      .gallery:hover .overlay-gallery  {
+        opacity: 1;
+        }
+        
+
+
+        .creative{
+          width: 80%;
+          margin: 0 auto;
+          position: relative;
+        }
+        
+        .image4{
+          display: block;
+          height: auto;
+        }
+        
+        .creative-text{
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        color: black;
+        font-size: 20px;
+        }
+        
+        .overlay-creative {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          height: 100%;
+          width: 100%;
+          opacity: 0;
+          transition: .5s ease;
+          background-color: #165AD2;
+          }
+        
+        
+          .creative:hover .overlay-creative  {
+            opacity: 1;
+            }
+
+
+
+            .voter{
+              width: 80%;
+              margin: 0 auto;
+              position: relative;
+            }
+            
+            .image5{
+              display: block;
+              height: auto;
+            }
+            
+            .voter-text{
+            position: absolute;
+            top: 60%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            color: black;
+            font-size: 20px;
+            }
+            
+            .overlay-voter {
+              position: absolute;
+              top: 0;
+              bottom: 0;
+              left: 0;
+              right: 0;
+              height: 100%;
+              width: 100%;
+              opacity: 0;
+              transition: .5s ease;
+              background-color: #FA26AA;
+              }
+            
+            
+              .voter:hover .overlay-voter  {
+                opacity: 1;
+                }
