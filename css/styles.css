@@ -28,17 +28,6 @@
   }
   
   
-  
-  /* .navbar-brand {
-    padding-top: 15px;
-    margin-bottom: 5px;
-  } */
-  
-  
-  /* .navbar-brand:hover {
-    color: black;
-  } */
-  
   nav li a {
     color: black;
     text-decoration: none;
@@ -73,7 +62,7 @@
 }
 
   .para{
-      padding-top: 10%;
+      padding-top: 15%;
   }
 
   .name{
@@ -111,13 +100,14 @@
     padding: 30px;
 }
 
-.image1{
+/* .image1{
     margin: 5px;
-}
+} */
 
 .me{
     padding-top: 30px;
     padding-bottom: 30px;
+    font-family: 'Domine', serif;
 }
 
 .project{
@@ -313,3 +303,51 @@ footer{
 .rine{
   border: 1px solid black;
 }
+
+.up{
+  font-family: 'Roboto', sans-serif;
+}
+
+.creator{
+  font-family: 'Source Code Pro', monospace;
+}
+
+.turn{
+  font-family: 'Source Code Pro', monospace;
+}
+
+.suitable{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: x-large;
+}
+
+.fullstack{
+  font-family: 'Abel', sans-serif;
+  font-size: large;
+}
+
+.core{
+  font-family: 'EB Garamond', serif;
+  font-size: large;
+}
+
+.core1{
+  font-family: 'EB Garamond', serif;
+  font-weight: 700;
+}
+
+.exp{
+  font-family: 'Cardo', serif;
+  font-size: x-large;
+}
+
+.brian{
+  font-family: 'BenchNine', sans-serif;
+  font-size: large;
+}
+
+.what{
+  font-family: 'Economica', sans-serif;
+  color: #1A5276;
+}
+
